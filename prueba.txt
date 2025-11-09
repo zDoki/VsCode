@@ -1,1 +1,1 @@
-asdadd
+$ git remote add origin https://github.com/zDoki/VsCode.git
